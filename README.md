@@ -1,5 +1,6 @@
 <div align="center" width="100%">
-  <a href="https://github.com/alisonpezzott"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/banner-github-alisonpezzott-v1.png" alt="banner-github-alisonpezzott-v1"/></a>
+  <h1>Pedro Henrique Gonçalves Mattos</h1>
+  <h3>Analista de processos e Dados com foco Gestão de Ativos de TI e Compliance</h3>
 </div>
 
 <div align="center">
