@@ -32,32 +32,3 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   
 </div>
-
-## Estatísticas
-
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
-</div>
-
-## Repositórios mais populares
-
-<div>
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dcalendario-fiscal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dcalendario-fiscal&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
-</div>
-
-
-## Vídeos mais recentes
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![[POWERBI] [DAX] Melhor e o pior mês!](https://ytcards.demolab.com/?id=y7t-XauXQgc&title=%5BPOWERBI%5D+%5BDAX%5D+Melhor+e+o+pior+m%C3%AAs%21&lang=en&timestamp=1728745450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[POWERBI] [DAX] Melhor e o pior mês!")](https://www.youtube.com/watch?v=y7t-XauXQgc)
-[![Isto é libertador!](https://ytcards.demolab.com/?id=hVTiRJQxQis&title=Isto+%C3%A9+libertador%21&lang=en&timestamp=1728646827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Isto é libertador!")](https://www.youtube.com/watch?v=hVTiRJQxQis)
-[![[POWERBI] [DAX] Você sabia que LASTDATE e FIRSTDATE retornam tabelas?!](https://ytcards.demolab.com/?id=9wbRfxSF9wE&title=%5BPOWERBI%5D+%5BDAX%5D+Voc%C3%AA+sabia+que+LASTDATE+e+FIRSTDATE+retornam+tabelas%3F%21&lang=en&timestamp=1728606976&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[POWERBI] [DAX] Você sabia que LASTDATE e FIRSTDATE retornam tabelas?!")](https://www.youtube.com/watch?v=9wbRfxSF9wE)
-[![📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯](https://ytcards.demolab.com/?id=VAeApCOkn_Q&title=%F0%9F%93%A2Atualiza%C3%A7%C3%A3o+Importante%21+Novo+GitHub+%2B+dCalendario+%2B+dPeriodos+%2B+Script+Tabular+Editor+%F0%9F%A4%AF&lang=en&timestamp=1727686834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "📢Atualização Importante! Novo GitHub + dCalendario + dPeriodos + Script Tabular Editor 🤯")](https://www.youtube.com/watch?v=VAeApCOkn_Q)
-[![Visão por Parâmetros de Campos no Power BI](https://ytcards.demolab.com/?id=QrMedE_mAkM&title=Vis%C3%A3o+por+Par%C3%A2metros+de+Campos+no+Power+BI&lang=en&timestamp=1727278216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visão por Parâmetros de Campos no Power BI")](https://www.youtube.com/watch?v=QrMedE_mAkM)
-[![Manipulações com textos na linguagem M - Função personalizada para normalizar colunas](https://ytcards.demolab.com/?id=8HNqYC6P2s8&title=Manipula%C3%A7%C3%B5es+com+textos+na+linguagem+M+-+Fun%C3%A7%C3%A3o+personalizada+para+normalizar+colunas&lang=en&timestamp=1726498811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Manipulações com textos na linguagem M - Função personalizada para normalizar colunas")](https://www.youtube.com/watch?v=8HNqYC6P2s8)
-<!-- END YOUTUBE-CARDS -->
